@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# API Key from  https://www.weatherbit.io/account/create
+# API Key = 449a566a9dec43d895a7f5b0db5329a9	
+# Key Name = "Master API Key"
